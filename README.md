@@ -1,4 +1,4 @@
-# Dhammabot
+# Stable Diffusion: Text-to-Image Generator
 This repository contains code for leveraging Stable Diffusion, a generative AI model, to generate high-quality images based on textual prompts. The project utilizes the Diffusers library, Transformers, and SciPy for efficient implementation.
 
 # Installation
